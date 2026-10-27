@@ -1,0 +1,3 @@
+# GitHub language statistics (Linguist)
+# The widget UI (HTML with inline CSS/JS) is not counted, so the bar shows the Electron JavaScript
+*.html linguist-detectable=false
